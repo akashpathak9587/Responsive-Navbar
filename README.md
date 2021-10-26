@@ -10,4 +10,4 @@ The JS code is so simple and clean.
 > _https://github.com/akashpathak9587/Responsive-Navbar.git_
 > 
 **Get Demo**
-> https://akashpathak9587.github.io/Responsive-Navbar/
+> _https://akashpathak9587.github.io/Responsive-Navbar/_
