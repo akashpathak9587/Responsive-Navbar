@@ -6,5 +6,8 @@ Check out this If you are a beginner.
 In this navigation bar we also created a animation by using only css.
 The JS code is so simple and clean.
 ```
-Clone this repository to your local machine
+**Clone this repository to your local machine**
 > _https://github.com/akashpathak9587/Responsive-Navbar.git_
+> 
+**Get Demo**
+> [_https://akashpathak9587.github.io/Responsive-Navbar/_](url)
